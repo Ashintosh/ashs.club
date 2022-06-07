@@ -246,7 +246,7 @@ body
 		height: 95px;
 		justify-content: center;
 		position: fixed;
-		width: 60%;
+		width: 62%;
 	}
 	.header .logo
 	{
@@ -268,7 +268,6 @@ body
 		width: 60%;
 	}
 }
-
 @media screen and (max-width: 1108px)
 {
 	.header
