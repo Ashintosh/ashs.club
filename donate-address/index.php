@@ -36,7 +36,6 @@ foreach ($currencies as $currency) {
         <meta name="author" content="Ash's Club">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta http-equiv="onion-location" content="ashsclubmwbzo46th4bytii32rlsjgmm7rp6fy4agsgqjm3qmmwxvzad.onion/donate-address"/>
         <link rel="icon" type="image/x-icon" href="../static/img/favicon.ico">
     
         <!-- Styles -->
