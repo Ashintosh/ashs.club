@@ -54,7 +54,8 @@ foreach ($currencies as $currency) {
                 <div class="nav">
                     <ul>
                         <li><a href="../">Home</a></li>
-                        <li><a href="https://drive.ashs.club/" target="_blank">Ash's Drive</a></li>
+                        <li><a href="https://drive.ashs.club/" target="_blank">Drive</a></li>
+                        <li><a href="../searxng/">SearXNG</a></li>
                         <li><a href="../xmrnode/">XMR Node</a></li>
                         <li><a href="../hosting/">Hosting</a></li>
                         <li><a href="../contact/">Contact</a></li>
