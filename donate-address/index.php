@@ -90,6 +90,7 @@ foreach ($currencies as $currency) {
             <ul>
                 <li><a href="../legal/privacy-policy/" target="_blank">Privacy Policy</a></li>
                 <li><a href="https://github.com/Ashintosh/ashs.club" target="_blank">Source</a></li>
+                <li><a href="../pgp.txt" target="_blank">PGP</a></li>
             </ul>
         </div>
     </body>
