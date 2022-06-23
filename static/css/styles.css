@@ -28,6 +28,9 @@ body
 	padding: 0;
 	width: 100%;
 }
+.red {
+	color: red;
+}
 .header .logo
 {
 	display: flex;

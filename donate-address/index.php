@@ -31,7 +31,7 @@ foreach ($currencies as $currency) {
         <title>Ash's Club - Donate</title>
 
         <meta charset="UTF-8">
-        <meta name="description" content="I am an oniline-privacy advocate that wants to help people take back their privacy using technologies such as Monero, Tor, XMPP, etc.">
+        <meta name="description" content="I host privacy respecting online services and develop open-source software and libraries that are free to use for everyone. Here you can find the different services that are available.">
         <meta name="keywords" content="AshClub, Monero, Anonymous, Security">
         <meta name="author" content="Ash's Club">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
